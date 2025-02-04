@@ -1,6 +1,6 @@
 SLACK_CHANNEL_NAME: build-status
 ENVIRONMENT: prod
-CODE_BASE_PATH: env/prod
+CODE_BASE_PATH: /home/ubuntu
 ACTION_MESSAGE: "Deployment in progress"
 KEEP_APPROVAL_STAGE: true
 PROMETHEUS_HOST: "prometheus-server.example.com"
